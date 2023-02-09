@@ -1,0 +1,44 @@
+.header-app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.header-home-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #272727;
+}
+.header-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.website-logo {
+  height: 40px;
+  width: 100px;
+}
+.header-item {
+  color: #f8fafc;
+  font-size: 16px;
+  font-family: roboto;
+  font-weight: 600;
+  padding-left: 15px;
+  text-decoration: none;
+}
+.button {
+  font-size: 12px;
+  font-family: roboto;
+  font-weight: 700;
+  color: #f8fafc;
+  background-color: #4f46e5;
+  width: 130px;
+  height: 35px;
+  border-radius: 8px;
+}

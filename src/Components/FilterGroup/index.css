@@ -1,0 +1,33 @@
+.filter-container {
+  display: flex;
+  flex-direction: column;
+  padding-left: 17px;
+  width: 100%;
+}
+.filter-heading {
+  color: #f1f5f9;
+  font-size: 17px;
+  font-weight: 600;
+  font-family: roboto;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+.filter-list-item {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+.Filter-List {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+.filter-input {
+  margin-right: 10px;
+}
+.label-emp {
+  color: #f1f5f9;
+  font-size: 13px;
+  font-weight: 600;
+  font-family: roboto;
+}
